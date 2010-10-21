@@ -1,0 +1,4430 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 67 0 R
+ /F4 70 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 650.5936
+ 107.1629
+ 662.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 650.5936
+ 532.5827
+ 662.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 62.69291
+ 632.5936
+ 111.5929
+ 644.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 527.0227
+ 632.5936
+ 532.5827
+ 644.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 699.0236
+ 0 ]
+ /Rect [ 82.69291
+ 614.5936
+ 155.4929
+ 626.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 699.0236
+ 0 ]
+ /Rect [ 527.0227
+ 614.5936
+ 532.5827
+ 626.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 510.6236
+ 0 ]
+ /Rect [ 82.69291
+ 596.5936
+ 113.8129
+ 608.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 510.6236
+ 0 ]
+ /Rect [ 527.0227
+ 596.5936
+ 532.5827
+ 608.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 118.2236
+ 0 ]
+ /Rect [ 82.69291
+ 578.5936
+ 116.0329
+ 590.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 118.2236
+ 0 ]
+ /Rect [ 527.0227
+ 578.5936
+ 532.5827
+ 590.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 69 0 R
+ /XYZ
+ 62.69291
+ 500.2236
+ 0 ]
+ /Rect [ 82.69291
+ 560.5936
+ 152.1629
+ 572.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 69 0 R
+ /XYZ
+ 62.69291
+ 500.2236
+ 0 ]
+ /Rect [ 527.0227
+ 560.5936
+ 532.5827
+ 572.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 69 0 R
+ /XYZ
+ 62.69291
+ 353.0236
+ 0 ]
+ /Rect [ 82.69291
+ 542.5936
+ 125.4929
+ 554.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 69 0 R
+ /XYZ
+ 62.69291
+ 353.0236
+ 0 ]
+ /Rect [ 527.0227
+ 542.5936
+ 532.5827
+ 554.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 69 0 R
+ /XYZ
+ 62.69291
+ 164.6236
+ 0 ]
+ /Rect [ 82.69291
+ 524.5936
+ 124.3829
+ 536.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 69 0 R
+ /XYZ
+ 62.69291
+ 164.6236
+ 0 ]
+ /Rect [ 527.0227
+ 524.5936
+ 532.5827
+ 536.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 71 0 R
+ /XYZ
+ 62.69291
+ 306.0236
+ 0 ]
+ /Rect [ 62.69291
+ 506.5936
+ 109.9229
+ 518.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 71 0 R
+ /XYZ
+ 62.69291
+ 306.0236
+ 0 ]
+ /Rect [ 527.0227
+ 506.5936
+ 532.5827
+ 518.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 71 0 R
+ /XYZ
+ 62.69291
+ 273.0236
+ 0 ]
+ /Rect [ 82.69291
+ 488.5936
+ 117.7129
+ 500.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 71 0 R
+ /XYZ
+ 62.69291
+ 273.0236
+ 0 ]
+ /Rect [ 527.0227
+ 488.5936
+ 532.5827
+ 500.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class LinkAnnotation 
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 470.5936
+ 111.5929
+ 482.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class LinkAnnotation 
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 470.5936
+ 532.5827
+ 482.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class LinkAnnotation 
+26 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 492.6236
+ 0 ]
+ /Rect [ 82.69291
+ 452.5936
+ 130.4829
+ 464.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class LinkAnnotation 
+27 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 492.6236
+ 0 ]
+ /Rect [ 527.0227
+ 452.5936
+ 532.5827
+ 464.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER25': class LinkAnnotation 
+28 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 426.6236
+ 0 ]
+ /Rect [ 82.69291
+ 434.5936
+ 123.2629
+ 446.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER26': class LinkAnnotation 
+29 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 426.6236
+ 0 ]
+ /Rect [ 527.0227
+ 434.5936
+ 532.5827
+ 446.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER27': class LinkAnnotation 
+30 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 309.4236
+ 0 ]
+ /Rect [ 82.69291
+ 416.5936
+ 116.0429
+ 428.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER28': class LinkAnnotation 
+31 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 309.4236
+ 0 ]
+ /Rect [ 527.0227
+ 416.5936
+ 532.5827
+ 428.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER29': class LinkAnnotation 
+32 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 243.4236
+ 0 ]
+ /Rect [ 82.69291
+ 398.5936
+ 124.9229
+ 410.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER30': class LinkAnnotation 
+33 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 243.4236
+ 0 ]
+ /Rect [ 527.0227
+ 398.5936
+ 532.5827
+ 410.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER31': class LinkAnnotation 
+34 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 144.2236
+ 0 ]
+ /Rect [ 82.69291
+ 380.5936
+ 108.2529
+ 392.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER32': class LinkAnnotation 
+35 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 144.2236
+ 0 ]
+ /Rect [ 527.0227
+ 380.5936
+ 532.5827
+ 392.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER33': class LinkAnnotation 
+36 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 362.5936
+ 134.3829
+ 374.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER34': class LinkAnnotation 
+37 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 362.5936
+ 532.5827
+ 374.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER35': class LinkAnnotation 
+38 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 665.8236
+ 0 ]
+ /Rect [ 62.69291
+ 344.5936
+ 113.8229
+ 356.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER36': class LinkAnnotation 
+39 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 665.8236
+ 0 ]
+ /Rect [ 527.0227
+ 344.5936
+ 532.5827
+ 356.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER37': class LinkAnnotation 
+40 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 632.8236
+ 0 ]
+ /Rect [ 82.69291
+ 326.5936
+ 184.3929
+ 338.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER38': class LinkAnnotation 
+41 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 632.8236
+ 0 ]
+ /Rect [ 527.0227
+ 326.5936
+ 532.5827
+ 338.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER39': class LinkAnnotation 
+42 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 509.6236
+ 0 ]
+ /Rect [ 82.69291
+ 308.5936
+ 128.8129
+ 320.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER40': class LinkAnnotation 
+43 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 509.6236
+ 0 ]
+ /Rect [ 527.0227
+ 308.5936
+ 532.5827
+ 320.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER41': class LinkAnnotation 
+44 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 173.6236
+ 0 ]
+ /Rect [ 82.69291
+ 290.5936
+ 128.8229
+ 302.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER42': class LinkAnnotation 
+45 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 173.6236
+ 0 ]
+ /Rect [ 527.0227
+ 290.5936
+ 532.5827
+ 302.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER43': class LinkAnnotation 
+46 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 741.0236
+ 0 ]
+ /Rect [ 82.69291
+ 272.5936
+ 114.3729
+ 284.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER44': class LinkAnnotation 
+47 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 741.0236
+ 0 ]
+ /Rect [ 527.0227
+ 272.5936
+ 532.5827
+ 284.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER45': class LinkAnnotation 
+48 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 591.8236
+ 0 ]
+ /Rect [ 82.69291
+ 254.5936
+ 121.5929
+ 266.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER46': class LinkAnnotation 
+49 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 591.8236
+ 0 ]
+ /Rect [ 527.0227
+ 254.5936
+ 532.5827
+ 266.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER47': class LinkAnnotation 
+50 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 408.6236
+ 0 ]
+ /Rect [ 82.69291
+ 236.5936
+ 124.3729
+ 248.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER48': class LinkAnnotation 
+51 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 408.6236
+ 0 ]
+ /Rect [ 527.0227
+ 236.5936
+ 532.5827
+ 248.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER49': class LinkAnnotation 
+52 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 324.6236
+ 0 ]
+ /Rect [ 82.69291
+ 218.5936
+ 131.5929
+ 230.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER50': class LinkAnnotation 
+53 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 324.6236
+ 0 ]
+ /Rect [ 527.0227
+ 218.5936
+ 532.5827
+ 230.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER51': class LinkAnnotation 
+54 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 240.6236
+ 0 ]
+ /Rect [ 82.69291
+ 200.5936
+ 123.8129
+ 212.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER52': class LinkAnnotation 
+55 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 240.6236
+ 0 ]
+ /Rect [ 527.0227
+ 200.5936
+ 532.5827
+ 212.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER53': class LinkAnnotation 
+56 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 182.5936
+ 106.0429
+ 194.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER54': class LinkAnnotation 
+57 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 182.5936
+ 532.5827
+ 194.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER55': class LinkAnnotation 
+58 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 603.8236
+ 0 ]
+ /Rect [ 82.69291
+ 164.5936
+ 119.9329
+ 176.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER56': class LinkAnnotation 
+59 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 603.8236
+ 0 ]
+ /Rect [ 527.0227
+ 164.5936
+ 532.5827
+ 176.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER57': class LinkAnnotation 
+60 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 501.8236
+ 0 ]
+ /Rect [ 82.69291
+ 146.5936
+ 160.5029
+ 158.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER58': class LinkAnnotation 
+61 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 501.8236
+ 0 ]
+ /Rect [ 527.0227
+ 146.5936
+ 532.5827
+ 158.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER59': class LinkAnnotation 
+62 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 360.6236
+ 0 ]
+ /Rect [ 82.69291
+ 128.5936
+ 110.4729
+ 140.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER60': class LinkAnnotation 
+63 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 360.6236
+ 0 ]
+ /Rect [ 527.0227
+ 128.5936
+ 532.5827
+ 140.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER61': class LinkAnnotation 
+64 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 261.4236
+ 0 ]
+ /Rect [ 62.69291
+ 110.5936
+ 123.8129
+ 122.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER62': class LinkAnnotation 
+65 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 261.4236
+ 0 ]
+ /Rect [ 527.0227
+ 110.5936
+ 532.5827
+ 122.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+66 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R
+ 30 0 R
+ 31 0 R
+ 32 0 R
+ 33 0 R
+ 34 0 R
+ 35 0 R
+ 36 0 R
+ 37 0 R
+ 38 0 R
+ 39 0 R
+ 40 0 R
+ 41 0 R
+ 42 0 R
+ 43 0 R
+ 44 0 R
+ 45 0 R
+ 46 0 R
+ 47 0 R
+ 48 0 R
+ 49 0 R
+ 50 0 R
+ 51 0 R
+ 52 0 R
+ 53 0 R
+ 54 0 R
+ 55 0 R
+ 56 0 R
+ 57 0 R
+ 58 0 R
+ 59 0 R
+ 60 0 R
+ 61 0 R
+ 62 0 R
+ 63 0 R
+ 64 0 R
+ 65 0 R ]
+ /Contents 112 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 111 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F3': class PDFType1Font 
+67 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+68 0 obj
+% Page dictionary
+<< /Contents 113 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 111 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+69 0 obj
+% Page dictionary
+<< /Contents 114 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 111 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F4': class PDFType1Font 
+70 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page4': class PDFPage 
+71 0 obj
+% Page dictionary
+<< /Contents 115 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 111 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+72 0 obj
+% Page dictionary
+<< /Contents 116 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 111 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+73 0 obj
+% Page dictionary
+<< /Contents 117 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 111 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+74 0 obj
+% Page dictionary
+<< /Contents 118 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 111 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER63': class PDFDictionary 
+75 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://sourcemaking.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 180.9936
+ 532.5827
+ 192.9936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page8': class PDFPage 
+76 0 obj
+% Page dictionary
+<< /Annots [ 75 0 R ]
+ /Contents 119 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 111 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R77': class PDFCatalog 
+77 0 obj
+% Document Root
+<< /Outlines 79 0 R
+ /PageLabels 120 0 R
+ /PageMode /UseNone
+ /Pages 111 0 R
+ /Type /Catalog >>
+endobj
+% 'R78': class PDFInfo 
+78 0 obj
+<< /Author (Egon Elbre)
+ /CreationDate (D:20101021141408-02'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Patterns IRL) >>
+endobj
+% 'R79': class PDFOutlines 
+79 0 obj
+<< /Count 34
+ /First 80 0 R
+ /Last 110 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+80 0 obj
+<< /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 81 0 R
+ /Parent 79 0 R
+ /Title (Overview) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+81 0 obj
+<< /Count 6
+ /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /First 82 0 R
+ /Last 87 0 R
+ /Next 88 0 R
+ /Parent 79 0 R
+ /Prev 80 0 R
+ /Title (Creational) >>
+endobj
+% 'Outline.32.0': class OutlineEntryObject 
+82 0 obj
+<< /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 699.0236
+ 0 ]
+ /Next 83 0 R
+ /Parent 81 0 R
+ /Title (Abstract Factory) >>
+endobj
+% 'Outline.32.1': class OutlineEntryObject 
+83 0 obj
+<< /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 510.6236
+ 0 ]
+ /Next 84 0 R
+ /Parent 81 0 R
+ /Prev 82 0 R
+ /Title (Builder) >>
+endobj
+% 'Outline.32.2': class OutlineEntryObject 
+84 0 obj
+<< /Dest [ 68 0 R
+ /XYZ
+ 62.69291
+ 118.2236
+ 0 ]
+ /Next 85 0 R
+ /Parent 81 0 R
+ /Prev 83 0 R
+ /Title (Factory) >>
+endobj
+% 'Outline.32.3': class OutlineEntryObject 
+85 0 obj
+<< /Dest [ 69 0 R
+ /XYZ
+ 62.69291
+ 500.2236
+ 0 ]
+ /Next 86 0 R
+ /Parent 81 0 R
+ /Prev 84 0 R
+ /Title (Factory Method) >>
+endobj
+% 'Outline.32.4': class OutlineEntryObject 
+86 0 obj
+<< /Dest [ 69 0 R
+ /XYZ
+ 62.69291
+ 353.0236
+ 0 ]
+ /Next 87 0 R
+ /Parent 81 0 R
+ /Prev 85 0 R
+ /Title (Prototype) >>
+endobj
+% 'Outline.32.5': class OutlineEntryObject 
+87 0 obj
+<< /Dest [ 69 0 R
+ /XYZ
+ 62.69291
+ 164.6236
+ 0 ]
+ /Parent 81 0 R
+ /Prev 86 0 R
+ /Title (Singleton) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+88 0 obj
+<< /Count 8
+ /Dest [ 71 0 R
+ /XYZ
+ 62.69291
+ 306.0236
+ 0 ]
+ /First 89 0 R
+ /Last 96 0 R
+ /Next 97 0 R
+ /Parent 79 0 R
+ /Prev 81 0 R
+ /Title (Structural) >>
+endobj
+% 'Outline.33.0': class OutlineEntryObject 
+89 0 obj
+<< /Dest [ 71 0 R
+ /XYZ
+ 62.69291
+ 273.0236
+ 0 ]
+ /Next 90 0 R
+ /Parent 88 0 R
+ /Title (Adapter) >>
+endobj
+% 'Outline.33.1': class OutlineEntryObject 
+90 0 obj
+<< /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 91 0 R
+ /Parent 88 0 R
+ /Prev 89 0 R
+ /Title (Bridge) >>
+endobj
+% 'Outline.33.2': class OutlineEntryObject 
+91 0 obj
+<< /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 492.6236
+ 0 ]
+ /Next 92 0 R
+ /Parent 88 0 R
+ /Prev 90 0 R
+ /Title (Composite) >>
+endobj
+% 'Outline.33.3': class OutlineEntryObject 
+92 0 obj
+<< /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 426.6236
+ 0 ]
+ /Next 93 0 R
+ /Parent 88 0 R
+ /Prev 91 0 R
+ /Title (Decorate) >>
+endobj
+% 'Outline.33.4': class OutlineEntryObject 
+93 0 obj
+<< /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 309.4236
+ 0 ]
+ /Next 94 0 R
+ /Parent 88 0 R
+ /Prev 92 0 R
+ /Title (Facade) >>
+endobj
+% 'Outline.33.5': class OutlineEntryObject 
+94 0 obj
+<< /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 243.4236
+ 0 ]
+ /Next 95 0 R
+ /Parent 88 0 R
+ /Prev 93 0 R
+ /Title (Flyweight) >>
+endobj
+% 'Outline.33.6': class OutlineEntryObject 
+95 0 obj
+<< /Dest [ 72 0 R
+ /XYZ
+ 62.69291
+ 144.2236
+ 0 ]
+ /Next 96 0 R
+ /Parent 88 0 R
+ /Prev 94 0 R
+ /Title (Proxy) >>
+endobj
+% 'Outline.33.7': class OutlineEntryObject 
+96 0 obj
+<< /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Parent 88 0 R
+ /Prev 95 0 R
+ /Title (Object Pool) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+97 0 obj
+<< /Count 12
+ /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 665.8236
+ 0 ]
+ /First 98 0 R
+ /Last 109 0 R
+ /Next 110 0 R
+ /Parent 79 0 R
+ /Prev 88 0 R
+ /Title (Behavioral) >>
+endobj
+% 'Outline.34.0': class OutlineEntryObject 
+98 0 obj
+<< /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 632.8236
+ 0 ]
+ /Next 99 0 R
+ /Parent 97 0 R
+ /Title (Chain of Responsibility) >>
+endobj
+% 'Outline.34.1': class OutlineEntryObject 
+99 0 obj
+<< /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 509.6236
+ 0 ]
+ /Next 100 0 R
+ /Parent 97 0 R
+ /Prev 98 0 R
+ /Title (Command) >>
+endobj
+% 'Outline.34.2': class OutlineEntryObject 
+100 0 obj
+<< /Dest [ 73 0 R
+ /XYZ
+ 62.69291
+ 173.6236
+ 0 ]
+ /Next 101 0 R
+ /Parent 97 0 R
+ /Prev 99 0 R
+ /Title (Interpreter) >>
+endobj
+% 'Outline.34.3': class OutlineEntryObject 
+101 0 obj
+<< /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 741.0236
+ 0 ]
+ /Next 102 0 R
+ /Parent 97 0 R
+ /Prev 100 0 R
+ /Title (Iterator) >>
+endobj
+% 'Outline.34.4': class OutlineEntryObject 
+102 0 obj
+<< /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 591.8236
+ 0 ]
+ /Next 103 0 R
+ /Parent 97 0 R
+ /Prev 101 0 R
+ /Title (Mediator) >>
+endobj
+% 'Outline.34.5': class OutlineEntryObject 
+103 0 obj
+<< /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 408.6236
+ 0 ]
+ /Next 104 0 R
+ /Parent 97 0 R
+ /Prev 102 0 R
+ /Title (Memento) >>
+endobj
+% 'Outline.34.6': class OutlineEntryObject 
+104 0 obj
+<< /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 324.6236
+ 0 ]
+ /Next 105 0 R
+ /Parent 97 0 R
+ /Prev 103 0 R
+ /Title (Null Object) >>
+endobj
+% 'Outline.34.7': class OutlineEntryObject 
+105 0 obj
+<< /Dest [ 74 0 R
+ /XYZ
+ 62.69291
+ 240.6236
+ 0 ]
+ /Next 106 0 R
+ /Parent 97 0 R
+ /Prev 104 0 R
+ /Title (Observer) >>
+endobj
+% 'Outline.34.8': class OutlineEntryObject 
+106 0 obj
+<< /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 107 0 R
+ /Parent 97 0 R
+ /Prev 105 0 R
+ /Title (State) >>
+endobj
+% 'Outline.34.9': class OutlineEntryObject 
+107 0 obj
+<< /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 603.8236
+ 0 ]
+ /Next 108 0 R
+ /Parent 97 0 R
+ /Prev 106 0 R
+ /Title (Strategy) >>
+endobj
+% 'Outline.34.10': class OutlineEntryObject 
+108 0 obj
+<< /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 501.8236
+ 0 ]
+ /Next 109 0 R
+ /Parent 97 0 R
+ /Prev 107 0 R
+ /Title (Template Method) >>
+endobj
+% 'Outline.34.11': class OutlineEntryObject 
+109 0 obj
+<< /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 360.6236
+ 0 ]
+ /Parent 97 0 R
+ /Prev 108 0 R
+ /Title (Visitor) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+110 0 obj
+<< /Dest [ 76 0 R
+ /XYZ
+ 62.69291
+ 261.4236
+ 0 ]
+ /Parent 79 0 R
+ /Prev 97 0 R
+ /Title (Bibliography) >>
+endobj
+% 'R111': class PDFPages 
+111 0 obj
+% page tree
+<< /Count 8
+ /Kids [ 66 0 R
+ 68 0 R
+ 69 0 R
+ 71 0 R
+ 72 0 R
+ 73 0 R
+ 74 0 R
+ 76 0 R ]
+ /Type /Pages >>
+endobj
+% 'R112': class PDFStream 
+112 0 obj
+% page stream
+<< /Length 8666 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9.64 Tm /F2 20 Tf 24 TL 176.0449 0 Td (Patterns IRL) Tj T* -176.0449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 36.93937 0 Td (Author:) Tj T* -36.93937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Egon Elbre) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 33.02937 0 Td (Version:) Tj T* -33.02937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (0.01) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 668.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Table of Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 104.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 543 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 543 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 525 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Creational) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 525 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 507 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Abstract Factory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 507 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 489 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Builder) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 489 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 471 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Factory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 471 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 453 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Factory Method) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 453 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 435 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Prototype) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 435 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 417 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Singleton) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 417 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 399 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Structural) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 399 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 381 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Adapter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 381 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 363 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Bridge) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 363 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 345 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Composite) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 345 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 327 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Decorate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 327 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 309 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Facade) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 309 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 291 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Flyweight) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 291 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 273 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Proxy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 273 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 255 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Object Pool) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 255 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 237 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Behavioral) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 237 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 219 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Chain of Responsibility) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 219 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 201 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Command) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 201 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Interpreter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Iterator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Mediator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Memento) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Null Object) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Observer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (State) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Strategy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Template Method) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Visitor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Bibliography) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R113': class PDFStream 
+113 0 obj
+% page stream
+<< /Length 5274 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Creational) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Abstract Factory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 177.1449 0 Td (families of product objects) Tj T* -177.1449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Separating different implementations from code:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 599.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (Filesystem ) Tj (<) Tj (- Mac FS -) Tj (>) Tj ( new File with line end set to #10) Tj T* (              Win FS -) Tj (>) Tj ( new File with line end set to #13#10) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 579.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Different style implementations:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 522.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (GUIFactory ) Tj (<) Tj (- Mac factory -) Tj (>) Tj ( MacButton, MacPanel) Tj T* (              Win factory -) Tj (>) Tj ( WinButton, WinPanel) Tj T* (              Anim factory -) Tj (>) Tj ( AnimatedButton, AnimatedPanel) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 492.6236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Builder) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.6236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 153.7949 0 Td (how a composite object gets created) Tj T* -153.7949 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 456.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Summary:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 450.6236 cm
+Q
+q
+1 0 0 1 62.69291 306.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 114 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (Builder:) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Abstract interface for creating objects \(product\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (Concrete Builder:) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .613555 Tw (Provides implementation for Builder. It is an object able to construct other objects. Constructs and) Tj T* 0 Tw (assembles parts to build the objects.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (Director:) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .574983 Tw (The Director class is responsible for managing the correct sequence of object creation. It receives) Tj T* 0 Tw (a Concrete Builder as a parameter and executes the necessary operations on it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (Product:) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (The final object that will be created by the Director using Builder.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 306.6236 cm
+Q
+q
+1 0 0 1 62.69291 288.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Abstracting object creation, parametarization and order to create a final object \(product\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 219.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.71 Tm /F3 10 Tf 12 TL (Builder: file writer) Tj T* (Concrete Builder: xml writer) Tj T* (Director: write page, write line) Tj T* (Product: a document) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 199.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Creating complex objects with abstract factory:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 130.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.71 Tm /F3 10 Tf 12 TL (Builder: abstract factory) Tj T* (Concrete Builder: Win factory) Tj T* (Director: creates a panel with aligned buttons) Tj T* (Product: panel with buttons) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 100.2236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Factory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 82.22362 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 187.4249 0 Td (easier object creation) Tj T* -187.4249 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R114': class PDFStream 
+114 0 obj
+% page stream
+<< /Length 4857 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Avoiding useless inheritance and code duplication:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (Factory.createBlueButton\(\) -) Tj (>) Tj ( a button colored blue) Tj T* (Factory.createRedButton\(\)  -) Tj (>) Tj ( a button colored red) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 687.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Information containment:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (Database.createSocket\(\) -) Tj (>) Tj ( socket with appropriate variables taken) Tj T* (                           from database object) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 622.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Lifetime management of created objects:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 577.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (WindowManager.createWindow\(\) -) Tj (>) Tj ( Window, adds window to self) Tj T* (WindowManager.MinimizeAll\(\)  -) Tj (>) Tj ( calls minimize for each window) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 557.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Avoiding duplicate object creation:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 512.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (ResourceManager.createResource\("somefile.jpg"\) -) Tj (>) Tj ( FileX) Tj T* (ResourceManager.createResource\("somefile.jpg"\) -) Tj (>) Tj ( FileX) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 482.2236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Factory Method) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 464.2236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 153.5149 0 Td (subclass of object that is instantiated) Tj T* -153.5149 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 446.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Object creation based on parameters:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 365.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+BT 1 0 0 1 0 53.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (Factory.create\('./file.txt'\)   -) Tj (>) Tj ( File) Tj T* (Factory.create\('./directory/'\) -) Tj (>) Tj ( Directory) Tj T*  T* (ImageReader.create\('./test.jpg'\) -) Tj (>) Tj ( JPGReader) Tj T* (ImageReader.create\('./test.gif'\) -) Tj (>) Tj ( GIFReader) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 335.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Prototype) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 317.0236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 161.5749 0 Td (class of object that is instantiated) Tj T* -161.5749 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 299.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Reducing inheritance by using prototype objects instead of classes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 265.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (Creature -) Tj (>) Tj ( Orc.clone\(\) -) Tj (>) Tj ( Creature of class Orc) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 245.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Avoding instantiation of "expensive" classes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 176.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.71 Tm /F3 10 Tf 12 TL (Camera = Yaw x Roll x Location x Transformation) Tj T* (for each p) Tj T* (    c = Camera.clone\(\)) Tj T* (    c = c x p\(\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 146.6236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Singleton) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 128.6236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 174.9149 0 Td (the sole instance of a class) Tj T* -174.9149 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 110.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Abstract Factory that deals with global lifetime management:) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R115': class PDFStream 
+115 0 obj
+% page stream
+<< /Length 4449 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 715.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.71 Tm /F3 10 Tf 12 TL (WindowManager that deals with all window management) Tj T* (WindowManager.getInstance\(\).createWindow\(\)) Tj T* (WindowManager.getInstance\(\).MinmizeAll\(\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 695.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Holding a global state:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (Application-Wide Clipboard) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 642.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Resource accessing classes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.71 Tm /F3 10 Tf 12 TL (async file - filesystem accesses) Tj T* (zip.open\(\)) Tj T* (zip.edit\(\)) Tj T* (zip.add\(\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 553.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Interfacing with modules/devices that have a global state:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 496.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.71 Tm /F3 10 Tf 12 TL (device.open\(\)) Tj T* (device.read\(\)) Tj T* (device.close\(\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 476.2236 cm
+Q
+q
+1 0 0 1 62.69291 405.2236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6.025 Tm /F4 12.5 Tf 15 TL (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Use only if creating a new instance would break something!) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 399.2236 cm
+Q
+q
+1 0 0 1 62.69291 369.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.173798 Tw (If object is single does not mean it has to be a singleton. Using a singleton hides that you are using a) Tj T* 0 Tw (global variable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Bad example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (singleton Logger class) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Structural) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Adapter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 188.5299 0 Td (interface to an object) Tj T* -188.5299 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Use only part of an object for your needs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Increase usability of modules \(composit multiple libraries\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 167.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (db = MathAdaptor \(uses different math libraries\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 147.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Avoid binding to vendor API:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 114.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (db = DBAdaptor) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R116': class PDFStream 
+116 0 obj
+% page stream
+<< /Length 4233 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Bridge) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 173.8049 0 Td (implementation of an object) Tj T* -173.8049 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Abstract away some part of an object implementation:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (Content) Tj T* (ContentDrawer) Tj T* (  ) Tj (>) Tj ( ContentDrawerAlpha) Tj T* (  ) Tj (>) Tj ( ContentDrawerBeta) Tj T*  T* (Drawer) Tj T* (DrawingAPI) Tj T* (  ) Tj (>) Tj ( GDI) Tj T* (  ) Tj (>) Tj ( PNG) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 561.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Declare abstract class interface for switchable library:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.71 Tm /F3 10 Tf 12 TL (DBAdaptor) Tj T* (db = SQLiteAdapter) Tj T* (db = MySQLAdapter) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 474.6236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Composite) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 456.6236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 150.4599 0 Td (structure and composition of an object) Tj T* -150.4599 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 438.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Use abstract object to define the structure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 408.6236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Decorate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 390.6236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 130.1799 0 Td (responsibilities of an object without subclassing) Tj T* -130.1799 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Essentially generic inheritance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Extend a object with additional functionality:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 321.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (Window + Scrollbars) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 291.4236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Facade) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.4236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 180.7549 0 Td (interface to a subsystem) Tj T* -180.7549 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 255.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Provide API for your library.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 225.4236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Flyweight) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 207.4236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 182.4199 0 Td (storage costs of objects) Tj T* -182.4199 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 189.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Use a simple object for getting the heavy oject:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 156.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (Font size, style -) Tj (>) Tj ( shared Font object) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 126.2236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Proxy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 108.2236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 149.2299 0 Td (how an object is accessed; it's location) Tj T* -149.2299 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 90.22362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Hide what and how an object is actually accessed.) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R117': class PDFStream 
+117 0 obj
+% page stream
+<< /Length 4774 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Object Pool) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 159.1399 0 Td (avoid creating "expensive" objects) Tj T* -159.1399 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Reuse already used objects:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (Sockets pool \(avoids creating sockets\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 644.8236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Behavioral) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 614.8236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Chain of Responsibility) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 596.8236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 151.5699 0 Td (pass request to object that can fulfill it) Tj T* -151.5699 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 578.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Build a tree of handling processing:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 521.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (multiple screen elements) Tj T* (window -) Tj (>) Tj ( no handle -- pass on to --) Tj (>) Tj ( panel) Tj T* (panel -) Tj (>) Tj ( handle -) Tj (>) Tj ( done) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 491.6236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Command) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 473.6236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 158.5199 0 Td (when and how a request is fulfilled) Tj T* -158.5199 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Multi-level undo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.71 Tm /F3 10 Tf 12 TL (build list of commands) Tj T* (each command knows how to undo itself) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 390.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Actions that can be called from multiple places + shortcuts, images:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (delphi) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 337.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Macro recording:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 304.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (each command can be recorded/played) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 284.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Task/thread pool:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 238.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.71 Tm /F3 10 Tf 12 TL (each task is a separate command) Tj T* (threads take task and execute it) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 218.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Networking:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 185.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (remote procedure calls) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 155.6236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Interpreter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 137.6236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 142.9549 0 Td (grammar and interpretation of a language) Tj T* -142.9549 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 119.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Math expression:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 86.42362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (math.calculate\("5 + 4 + 1"\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R118': class PDFStream 
+118 0 obj
+% page stream
+<< /Length 5404 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Interpreted programming language, syntax tree.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Iterator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 115.0449 0 Td (how an aggregate's elements are accessed, traversed) Tj T* -115.0449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Unicode string algorithms must work with iterators otherwise incorrect or slow implementation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Iterating over a set of elements:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 623.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.71 Tm /F3 10 Tf 12 TL (for x in set:) Tj T* (    print x) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 603.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Generics over lists, trees, sets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.8236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Mediator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 555.8236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 131.5649 0 Td (how and which objects interact with each other) Tj T* -131.5649 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Avoid direct dependancy between classes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.8236 cm
+Q
+q
+1 0 0 1 62.69291 471.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (instead of) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Client -) Tj (> Folder) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (use) Tj T* ET
+Q
+Q
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 10 0 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Client -) Tj (> ClientFolderMapping -) Tj (> Folder) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 471.8236 cm
+Q
+q
+1 0 0 1 62.69291 453.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Rules of thumb:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 420.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (http://sourcemaking.com/design_patterns/mediator) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 390.6236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Memento) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.6236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 97.93488 0 Td (what private information is stored outside an object, and when) Tj T* -97.93488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Restore points - save state to recover from exceptions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 336.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Autosave.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.6236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Null Object) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 288.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Avoid null pointer exceptions while dealing with linked objects:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 282.6236 cm
+Q
+q
+1 0 0 1 62.69291 270.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Tree sentinel objects) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 270.6236 cm
+Q
+q
+1 0 0 1 62.69291 252.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Deal easily with exceptional states.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.6236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Observer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 204.6236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 30.64988 0 Td (number of objects that depend on another object; how the dependent objects stay up to date) Tj T* -30.64988 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 186.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Update when data changes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 153.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (data.change --) Tj (>) Tj ( listbox.datachanged) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 133.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Avoid polling data for changes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 127.4236 cm
+Q
+q
+1 0 0 1 62.69291 115.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (data.change --) Tj (> listbox.datachanged invalidated screen part -) Tj (> redraw invalidated part) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 115.4236 cm
+Q
+ 
+endstream
+
+endobj
+% 'R119': class PDFStream 
+119 0 obj
+% page stream
+<< /Length 4647 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (State) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 194.3649 0 Td (states of an object) Tj T* -194.3649 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Different tools in image editor:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 653.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (Abstract tool) Tj T* (  ) Tj (>) Tj (  CircleTool) Tj T* (  ) Tj (>) Tj (  PenTool) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 633.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Finite state machine.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 615.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Different contexts of doing something.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.8236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Strategy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 567.8236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 207.4349 0 Td (an algorithm) Tj T* -207.4349 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Different ways of doing something:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.8236 cm
+Q
+q
+1 0 0 1 62.69291 531.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (printing output format distance function on objects) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 531.8236 cm
+Q
+q
+1 0 0 1 62.69291 513.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Function pointers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.8236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Template Method) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.8236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 188.5349 0 Td (steps of an algorithm) Tj T* -188.5349 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Provide a default way of doing something to decendant classes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Queue:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.71 Tm /F3 10 Tf 12 TL (put) Tj T* (lock, unlock) Tj T* (get) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 342.6236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Visitor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 324.6236 cm
+q
+.545098 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 77.08488 0 Td (operations that can be applied to objects without changing their classes) Tj T* -77.08488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Printing a tree:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (vistor.traverse\(tree\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 240.4236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Bibliography) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 228.4236 cm
+Q
+q
+1 0 0 1 62.69291 228.4236 cm
+Q
+q
+1 0 0 1 62.69291 216.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Summaries - Design Patterns: Elements of Reusable Code) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 210.4236 cm
+Q
+q
+1 0 0 1 62.69291 198.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Wikipedia) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 192.4236 cm
+Q
+q
+1 0 0 1 62.69291 180.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (http://sourcemaking.com/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 180.4236 cm
+Q
+ 
+endstream
+
+endobj
+% 'R120': class PDFPageLabels 
+120 0 obj
+% Document Root
+<< /Nums [ 0
+ 121 0 R
+ 1
+ 122 0 R
+ 2
+ 123 0 R
+ 3
+ 124 0 R
+ 4
+ 125 0 R
+ 5
+ 126 0 R
+ 6
+ 127 0 R
+ 7
+ 128 0 R ] >>
+endobj
+% 'R121': class PDFPageLabel 
+121 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R122': class PDFPageLabel 
+122 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R123': class PDFPageLabel 
+123 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R124': class PDFPageLabel 
+124 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R125': class PDFPageLabel 
+125 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R126': class PDFPageLabel 
+126 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R127': class PDFPageLabel 
+127 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R128': class PDFPageLabel 
+128 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+xref
+0 129
+0000000000 65535 f
+0000000113 00000 n
+0000000247 00000 n
+0000000412 00000 n
+0000000600 00000 n
+0000000841 00000 n
+0000001082 00000 n
+0000001323 00000 n
+0000001564 00000 n
+0000001805 00000 n
+0000002046 00000 n
+0000002288 00000 n
+0000002530 00000 n
+0000002773 00000 n
+0000003016 00000 n
+0000003259 00000 n
+0000003502 00000 n
+0000003745 00000 n
+0000003988 00000 n
+0000004231 00000 n
+0000004474 00000 n
+0000004717 00000 n
+0000004960 00000 n
+0000005203 00000 n
+0000005446 00000 n
+0000005689 00000 n
+0000005932 00000 n
+0000006175 00000 n
+0000006418 00000 n
+0000006661 00000 n
+0000006904 00000 n
+0000007147 00000 n
+0000007390 00000 n
+0000007633 00000 n
+0000007876 00000 n
+0000008119 00000 n
+0000008362 00000 n
+0000008605 00000 n
+0000008848 00000 n
+0000009091 00000 n
+0000009334 00000 n
+0000009577 00000 n
+0000009820 00000 n
+0000010063 00000 n
+0000010306 00000 n
+0000010549 00000 n
+0000010792 00000 n
+0000011035 00000 n
+0000011278 00000 n
+0000011521 00000 n
+0000011764 00000 n
+0000012007 00000 n
+0000012250 00000 n
+0000012493 00000 n
+0000012736 00000 n
+0000012979 00000 n
+0000013222 00000 n
+0000013465 00000 n
+0000013708 00000 n
+0000013951 00000 n
+0000014194 00000 n
+0000014437 00000 n
+0000014680 00000 n
+0000014923 00000 n
+0000015166 00000 n
+0000015409 00000 n
+0000015636 00000 n
+0000016484 00000 n
+0000016644 00000 n
+0000016926 00000 n
+0000017210 00000 n
+0000017398 00000 n
+0000017680 00000 n
+0000017962 00000 n
+0000018244 00000 n
+0000018541 00000 n
+0000018770 00000 n
+0000019074 00000 n
+0000019235 00000 n
+0000019469 00000 n
+0000019596 00000 n
+0000019765 00000 n
+0000019996 00000 n
+0000020176 00000 n
+0000020362 00000 n
+0000020548 00000 n
+0000020741 00000 n
+0000020929 00000 n
+0000021099 00000 n
+0000021330 00000 n
+0000021501 00000 n
+0000021686 00000 n
+0000021874 00000 n
+0000022061 00000 n
+0000022246 00000 n
+0000022434 00000 n
+0000022618 00000 n
+0000022790 00000 n
+0000023024 00000 n
+0000023211 00000 n
+0000023398 00000 n
+0000023590 00000 n
+0000023780 00000 n
+0000023970 00000 n
+0000024159 00000 n
+0000024352 00000 n
+0000024542 00000 n
+0000024729 00000 n
+0000024920 00000 n
+0000025118 00000 n
+0000025288 00000 n
+0000025447 00000 n
+0000025620 00000 n
+0000034389 00000 n
+0000039766 00000 n
+0000044726 00000 n
+0000049278 00000 n
+0000053614 00000 n
+0000058491 00000 n
+0000063998 00000 n
+0000068752 00000 n
+0000068946 00000 n
+0000069025 00000 n
+0000069104 00000 n
+0000069183 00000 n
+0000069262 00000 n
+0000069341 00000 n
+0000069420 00000 n
+0000069499 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [($\220r\251\375hg\215c\013r\200l\034<F) ($\220r\251\375hg\215c\013r\200l\034<F)] 
+
+ /Info 78 0 R
+ /Root 77 0 R
+ /Size 129 >>
+startxref
+69547
+%%EOF
