@@ -1,8 +1,10 @@
 ================================================================================
 Patterns in Real Life
 ================================================================================
-:License: (CC) by-sa (http://creativecommons.org/licenses/by-sa/2.0/)
+
+:License: `CC [by-sa] <http://creativecommons.org/licenses/by-sa/2.0/>`_
 :Author: Egon Elbre
+
 --------------------------------------------------------------------------------
 
 Overview
@@ -18,23 +20,23 @@ example you use would be good, from real life and understandable.
 You can use the examples any way you like on the condition that if you improve,
 implement code or do a diagram then publish them for free or send them to me
 so that these can be incorporated here - so they must be usable under
-(CC) a-sa. You will be mentioned in the contributors list.
+CC [by-sa]. You will be also mentioned in the contributors list.
 
-(This also means only for that example -- so if you are writing a book then
-you don't have to give away the whole thing for free.)
+This also means only for that example - so if you are writing a book then
+you don't have to give away the whole thing for free.
 
-For each pattern we try to give these points:
+For each pattern we try to give these points::
 
-    1. Short, concise and to the point summary of the pattern
-    2. Overview of the patterns
-    3. Abstract diagram of the design pattern
-    4. Example:
-        1. Use case in principle
-        2. example of bad design
-        3. example improved with good design
-    5. Tips
-    6. Warnings
-    7. List of places open-source code where this has been used
+    Short, concise and to the point summary of the pattern
+    Overview of the patterns
+    Abstract diagram of the design pattern
+    Examples
+        principle
+        example of bad design
+        example improved with pattern
+    Tips
+    Warnings
+    List of source codes where this pattern has been used
 
 Each example must be from a real life scenario and it must be
 totally clear that using this pattern improves the code.
@@ -53,11 +55,11 @@ in spam folder.
 
 Things I'm looking for:
 
-    1. examples (any language)
-    2. criticism
-    3. whether some example is hard to understand why it makes code better
-    4. improvements
-    5. models, diagrams
+* examples (any language)
+* criticism
+* whether some example is hard to understand why it makes code better
+* improvements
+* models, diagrams
 
 Contributors
 ============
@@ -69,5 +71,5 @@ Bibliography
 
 Places to look for more information:
 
-* SourceMaking (http://sourcemaking.com/)
-* Wikipedia
+* `SourceMaking <http://sourcemaking.com/>`_
+* `Wikipedia <http://wikipedia.org/>`_
