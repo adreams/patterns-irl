@@ -2,7 +2,7 @@
 Design Patterns in Real Life
 ============================
 :Author: Egon Elbre
-:Version: 0.01
+:Version: 0.02
 
 .. contents:: Table of Contents
 
