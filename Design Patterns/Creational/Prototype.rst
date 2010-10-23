@@ -13,24 +13,14 @@ Overview
 Examples
 ^^^^^^^^
 
-.. warning: need better examples
+.. warning: examples not that great
+
+Reduce inheritance
+..................
 
 Reducing inheritance by using prototype objects instead of classes::
 
     Creature -> Orc.clone() -> Creature of class Orc
-
-Avoding instantiation of "expensive" classes::
-
-    Camera = Yaw x Roll x Location x Transformation
-    for each p
-        c = Camera.clone()
-        c = c x p()
-
-.. note:: TODO Example
-
-Example 1
-.........
-
 
 .. note:: TODO Principle
 
@@ -38,6 +28,21 @@ Example 1
 
 .. note:: TODO Example of using the pattern.
 
+Avoid instiating "expensive" classes
+....................................
+
+Avoid instiating "expensive" classes::
+
+    Camera = Yaw x Roll x Location x Transformation
+    for each p
+        c = Camera.clone()
+        c = c x p()
+
+.. note:: TODO Principle
+
+.. note:: TODO Example of not using the pattern
+
+.. note:: TODO Example of using the pattern.
 
 Tips
 ^^^^

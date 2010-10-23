@@ -13,17 +13,38 @@ Overview
 Examples
 ^^^^^^^^
 
+Lifetime management
+...................
+
 Abstract Factory that deals with global lifetime management::
 
     WindowManager that deals with all window management
     WindowManager.getInstance().createWindow()
     WindowManager.getInstance().MinmizeAll()
 
-.. note:: TODO Example
+.. note:: TODO Principle
+
+.. note:: TODO Example of not using the pattern
+
+.. note:: TODO Example of using the pattern.
+
+
+Global state
+............
 
 Holding a global state::
 
     Application-Wide Clipboard
+
+.. note:: TODO Principle
+
+.. note:: TODO Example of not using the pattern
+
+.. note:: TODO Example of using the pattern.
+
+
+Device accessing
+................
 
 Resource accessing classes::
 
@@ -32,22 +53,27 @@ Resource accessing classes::
     zip.edit()
     zip.add()
 
-Interfacing with modules/devices that have a global state::
-
-    device.open()
-    device.read()
-    device.close()
-
-Example 1
-.........
-
-
 .. note:: TODO Principle
 
 .. note:: TODO Example of not using the pattern
 
 .. note:: TODO Example of using the pattern.
 
+
+Interfacing with module that has a global state
+...............................................
+
+Interfacing with modules/devices that have a global state::
+
+    device.open()
+    device.read()
+    device.close()
+
+.. note:: TODO Principle
+
+.. note:: TODO Example of not using the pattern
+
+.. note:: TODO Example of using the pattern.
 
 Tips
 ^^^^
