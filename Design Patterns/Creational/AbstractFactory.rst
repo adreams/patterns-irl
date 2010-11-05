@@ -6,7 +6,7 @@ Abstract Factory
 Overview
 ^^^^^^^^
 
-This pattern uses one interface to define the factory of methods for
+This pattern uses one interface to define a factory with methods for
 constructing interfaced or abstract classes.
 
 .. note:: TODO

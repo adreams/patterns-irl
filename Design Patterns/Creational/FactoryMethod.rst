@@ -6,8 +6,15 @@ Factory Method
 Overview
 ^^^^^^^^
 
-The creating method returns a decendant class of a class
-based on parameters.
+The creating method returns a object based on parameters/inheritance.
+
+Factory method based on parameters is a way to find the
+appropriate object to be created. This way we can collect different
+object creation ways to one method.
+
+Factory method based on inheritance is a way of subclass
+defining the object being created. This way the object inherited
+can create appropriate object or modify it accordingly to it's needs.
 
 .. note:: TODO Diagram of the pattern.
 
