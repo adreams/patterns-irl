@@ -29,12 +29,12 @@ you don't have to give away the whole thing for free.
 For each pattern we try to give these points::
 
     Short, concise and to the point summary of the pattern
-    Overview of the patterns
-    Abstract diagram of the design pattern
+    Overview of the pattern
+    Conceptual diagram of the design pattern
     Examples
         principle
-        example of bad design
-        example improved with pattern
+        example of bad design (with source)
+        example improved with pattern (with source)
     Tips
     Warnings
     List of source codes where this pattern has been used
