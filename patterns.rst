@@ -21,6 +21,10 @@ Creational
 
 .. include:: ./Design Patterns/Creational/Singleton.rst
 
+.. include:: ./Design Patterns/Creational/ObjectPool.rst
+
+.. include:: ./Design Patterns/Creational/Utility.rst
+
 
 Structural
 ==========
@@ -38,8 +42,6 @@ Structural
 .. include:: ./Design Patterns/Structural/Flyweight.rst
 
 .. include:: ./Design Patterns/Structural/Proxy.rst
-
-.. include:: ./Design Patterns/Structural/ObjectPool.rst
 
 
 Behavioral
