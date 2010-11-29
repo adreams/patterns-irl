@@ -16,8 +16,8 @@
    inkscape:version="0.48.0 r9654"
    sodipodi:docname="Prototype.svg"
    inkscape:export-filename="/home/egon/Documents/patterns-irl/Design Patterns/Creational/images/Prototype.png"
-   inkscape:export-xdpi="133.61"
-   inkscape:export-ydpi="133.61">
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,16 +28,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="322.87473"
-     inkscape:cy="264.31248"
+     inkscape:cx="325.73187"
+     inkscape:cy="207.16962"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="974"
-     inkscape:window-x="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="1175"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

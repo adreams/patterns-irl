@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.0 r9654"
    sodipodi:docname="Singleton.svg"
-   inkscape:export-filename="/home/egon/Documents/patterns-irl/Design Patterns/Creational/images/AbstractFactory.png"
-   inkscape:export-xdpi="133.61"
-   inkscape:export-ydpi="133.61">
+   inkscape:export-filename="/home/egon/Documents/patterns-irl/Design Patterns/Creational/images/Singleton.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,7 +28,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="339.1273"
+     inkscape:cx="341.14761"
      inkscape:cy="154.43518"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"

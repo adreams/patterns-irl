@@ -16,8 +16,8 @@
    inkscape:version="0.48.0 r9654"
    sodipodi:docname="Builder.svg"
    inkscape:export-filename="/home/egon/Documents/patterns-irl/Design Patterns/Creational/images/Builder.png"
-   inkscape:export-xdpi="133.61"
-   inkscape:export-ydpi="133.61">
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,7 +28,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1855087"
-     inkscape:cx="292.10415"
+     inkscape:cx="293.79119"
      inkscape:cy="189.53154"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,7 +65,7 @@
        sodipodi:cy="74.10997"
        sodipodi:rx="31.910532"
        sodipodi:ry="31.910532"
-       d="m 571.4073,74.10997 a 31.910532,31.910532 0 1 1 -63.82107,0 31.910532,31.910532 0 1 1 63.82107,0 z"
+       d="m 571.4073,74.10997 c 0,17.6237 -14.28683,31.91053 -31.91053,31.91053 -17.62371,0 -31.91054,-14.28683 -31.91054,-31.91053 0,-17.6237 14.28683,-31.910532 31.91054,-31.910532 17.6237,0 31.91053,14.286832 31.91053,31.910532 z"
        transform="translate(-51.295434,574.74801)" />
     <path
        sodipodi:nodetypes="ccccc"
