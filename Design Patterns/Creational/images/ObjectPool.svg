@@ -60,21 +60,21 @@
     <rect
        style="fill:#339900;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3119"
-       width="152.14285"
+       width="126.42857"
        height="66.428543"
-       x="80"
-       y="748.07648"
+       x="66.428574"
+       y="753.07648"
        ry="9.2261896" />
     <rect
        style="fill:#339900;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3071"
-       width="172.14285"
+       width="159.28571"
        height="181.42857"
-       x="70"
+       x="58.571426"
        y="797.36218" />
     <g
        id="g3066"
-       transform="matrix(0,-1,1,0,-255.53022,1404.4691)">
+       transform="matrix(0,-1,1,0,-279.81593,1404.4691)">
       <rect
          y="754.16687"
          x="417.40799"
@@ -97,7 +97,7 @@
     </g>
     <g
        id="g3047"
-       transform="matrix(1.3348183,0,0,1.3348183,97.348971,-201.88033)">
+       transform="matrix(1.3348183,0,0,1.3348183,73.063257,-201.88033)">
       <rect
          style="fill:#336699;fill-opacity:1;stroke:#1a1a1a;stroke-width:2.24749684;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect3015"
@@ -254,7 +254,7 @@
     </g>
     <g
        id="g3042"
-       transform="translate(-1.42857,137.14285)">
+       transform="translate(-25.714284,137.14285)">
       <path
          inkscape:connector-curvature="0"
          id="rect3003"
@@ -275,7 +275,7 @@
            sodipodi:role="line">f.createThing()</tspan></text>
     </g>
     <g
-       transform="matrix(0.35659934,0.01228402,-0.01228402,0.35659934,-2.6403642,652.2716)"
+       transform="matrix(0.35659934,0.01228402,-0.01228402,0.35659934,-26.926078,652.2716)"
        id="g3079">
       <rect
          style="fill:#336699;fill-opacity:1;stroke:#1a1a1a;stroke-width:8.40781593;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -299,7 +299,7 @@
     </g>
     <g
        id="g3087"
-       transform="matrix(0.33944327,0.10996479,-0.10996479,0.33944327,35.767628,508.72762)">
+       transform="matrix(0.33944327,0.10996479,-0.10996479,0.33944327,19.339057,508.01333)">
       <rect
          y="754.16687"
          x="417.40799"
@@ -321,7 +321,7 @@
            sodipodi:role="line">Thing</tspan></text>
     </g>
     <g
-       transform="matrix(0.17962866,-0.3082978,0.3082978,0.17962866,-143.46962,876.77534)"
+       transform="matrix(0.17962866,-0.3082978,0.3082978,0.17962866,-167.75533,876.77534)"
        id="g3095">
       <rect
          style="fill:#336699;fill-opacity:1;stroke:#1a1a1a;stroke-width:8.40781593;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -345,7 +345,7 @@
     </g>
     <g
        id="g3103"
-       transform="matrix(0.17962866,-0.3082978,0.3082978,0.17962866,-222.75534,907.48963)">
+       transform="matrix(0.17962866,-0.3082978,0.3082978,0.17962866,-239.89819,908.20392)">
       <rect
          y="754.16687"
          x="417.40799"
@@ -367,7 +367,7 @@
            sodipodi:role="line">Thing</tspan></text>
     </g>
     <g
-       transform="matrix(-1,0,0,1,705.86625,63.571428)"
+       transform="matrix(-1,0,0,1,681.58054,63.571428)"
        id="g3111">
       <path
          sodipodi:nodetypes="cccccccc"
@@ -392,12 +392,12 @@
        transform="scale(0.99499596,1.0050292)"
        sodipodi:linespacing="125%"
        id="text3009-6"
-       y="777.1557"
-       x="124.85822"
+       y="782.13068"
+       x="93.271584"
        style="font-size:27.55856705px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
        xml:space="preserve"><tspan
-         y="777.1557"
-         x="124.85822"
+         y="782.13068"
+         x="93.271584"
          sodipodi:role="line"
          id="tspan3142">Pool</tspan></text>
   </g>
