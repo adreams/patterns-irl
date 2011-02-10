@@ -9,64 +9,63 @@ Design Patterns in Real Life
 Creational
 ==========
 
-.. include:: ./Design Patterns/Creational/AbstractFactory.rst
+.. include:: ./DesignPatterns/Creational/AbstractFactory.rst
 
-.. include:: ./Design Patterns/Creational/Builder.rst
+.. include:: ./DesignPatterns/Creational/Builder.rst
 
-.. include:: ./Design Patterns/Creational/Factory.rst
+.. include:: ./DesignPatterns/Creational/Factory.rst
 
-.. include:: ./Design Patterns/Creational/FactoryMethod.rst
+.. include:: ./DesignPatterns/Creational/FactoryMethod.rst
 
-.. include:: ./Design Patterns/Creational/Prototype.rst
+.. include:: ./DesignPatterns/Creational/Prototype.rst
 
-.. include:: ./Design Patterns/Creational/Singleton.rst
+.. include:: ./DesignPatterns/Creational/Singleton.rst
 
-.. include:: ./Design Patterns/Creational/ObjectPool.rst
-
-.. include:: ./Design Patterns/Creational/Utility.rst
+.. include:: ./DesignPatterns/Creational/ObjectPool.rst
 
 
 Structural
 ==========
 
-.. include:: ./Design Patterns/Structural/Adapter.rst
+.. include:: ./DesignPatterns/Structural/Adapter.rst
 
-.. include:: ./Design Patterns/Structural/Bridge.rst
+.. include:: ./DesignPatterns/Structural/Bridge.rst
 
-.. include:: ./Design Patterns/Structural/Composite.rst
+.. include:: ./DesignPatterns/Structural/Composite.rst
 
-.. include:: ./Design Patterns/Structural/Decorate.rst
+.. include:: ./DesignPatterns/Structural/Decorate.rst
 
-.. include:: ./Design Patterns/Structural/Facade.rst
+.. include:: ./DesignPatterns/Structural/Facade.rst
 
-.. include:: ./Design Patterns/Structural/Flyweight.rst
+.. include:: ./DesignPatterns/Structural/Flyweight.rst
 
-.. include:: ./Design Patterns/Structural/Proxy.rst
+.. include:: ./DesignPatterns/Structural/Proxy.rst
 
+.. include:: ./DesignPatterns/Structural/Utility.rst
 
 Behavioral
 ==========
 
-.. include:: ./Design Patterns/Behavioral/ChainOfResponsibility.rst
+.. include:: ./DesignPatterns/Behavioral/ChainOfResponsibility.rst
 
-.. include:: ./Design Patterns/Behavioral/Command.rst
+.. include:: ./DesignPatterns/Behavioral/Command.rst
 
-.. include:: ./Design Patterns/Behavioral/Interpreter.rst
+.. include:: ./DesignPatterns/Behavioral/Interpreter.rst
 
-.. include:: ./Design Patterns/Behavioral/Iterator.rst
+.. include:: ./DesignPatterns/Behavioral/Iterator.rst
 
-.. include:: ./Design Patterns/Behavioral/Mediator.rst
+.. include:: ./DesignPatterns/Behavioral/Mediator.rst
 
-.. include:: ./Design Patterns/Behavioral/Memento.rst
+.. include:: ./DesignPatterns/Behavioral/Memento.rst
 
-.. include:: ./Design Patterns/Behavioral/NullObject.rst
+.. include:: ./DesignPatterns/Behavioral/NullObject.rst
 
-.. include:: ./Design Patterns/Behavioral/Observer.rst
+.. include:: ./DesignPatterns/Behavioral/Observer.rst
 
-.. include:: ./Design Patterns/Behavioral/State.rst
+.. include:: ./DesignPatterns/Behavioral/State.rst
 
-.. include:: ./Design Patterns/Behavioral/Strategy.rst
+.. include:: ./DesignPatterns/Behavioral/Strategy.rst
 
-.. include:: ./Design Patterns/Behavioral/TemplateMethod.rst
+.. include:: ./DesignPatterns/Behavioral/TemplateMethod.rst
 
-.. include:: ./Design Patterns/Behavioral/Visitor.rst
+.. include:: ./DesignPatterns/Behavioral/Visitor.rst

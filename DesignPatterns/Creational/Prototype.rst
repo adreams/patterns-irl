@@ -3,6 +3,8 @@ Prototype
 ----------------
 .. rubric:: class of object that is instantiated
 
+.. image:: ./DesignPatterns/Creational/images/Prototype.png
+
 Overview
 ^^^^^^^^
 

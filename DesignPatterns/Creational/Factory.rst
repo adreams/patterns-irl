@@ -3,6 +3,8 @@ Factory
 ----------------
 .. rubric:: easier object creation
 
+.. image:: ./DesignPatterns/Creational/images/Factory.png
+
 Overview
 ^^^^^^^^
 

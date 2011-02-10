@@ -3,6 +3,8 @@ Builder
 ----------------
 .. rubric:: how a composite object gets created
 
+.. image:: ./DesignPatterns/Creational/images/Builder.png
+
 Overview
 ^^^^^^^^
 

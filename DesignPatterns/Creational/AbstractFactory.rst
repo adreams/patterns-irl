@@ -3,6 +3,8 @@ Abstract Factory
 ----------------
 .. rubric:: families of product objects
 
+.. image:: ./DesignPatterns/Creational/images/AbstractFactory.png
+
 Overview
 ^^^^^^^^
 

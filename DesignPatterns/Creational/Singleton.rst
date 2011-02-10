@@ -3,6 +3,8 @@ Singleton
 ----------------
 .. rubric:: the sole instance of a class
 
+.. image:: ./DesignPatterns/Creational/images/Singleton.png
+
 Overview
 ^^^^^^^^
 

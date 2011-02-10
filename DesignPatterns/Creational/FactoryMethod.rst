@@ -3,6 +3,8 @@ Factory Method
 --------------
 .. rubric:: subclass of object that is instantiated
 
+.. image:: ./DesignPatterns/Creational/images/FactoryMethod.png
+
 Overview
 ^^^^^^^^
 
