@@ -23,6 +23,7 @@ Creational
 
 .. include:: ./DesignPatterns/Creational/ObjectPool.rst
 
+.. include:: ./DesignPatterns/Creational/LazyInitialization.rst
 
 Structural
 ==========
@@ -37,7 +38,11 @@ Structural
 
 .. include:: ./DesignPatterns/Structural/Facade.rst
 
+.. include:: ./DesignPatterns/Structural/FrontController.rst
+
 .. include:: ./DesignPatterns/Structural/Flyweight.rst
+
+.. include:: ./DesignPatterns/Structural/PrivateClassData.rst
 
 .. include:: ./DesignPatterns/Structural/Proxy.rst
 
