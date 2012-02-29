@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="Facade.svg"
-   inkscape:export-filename="/home/egon/Documents/patterns-irl/Design Patterns/Creational/images/FactoryMethod.png"
+   inkscape:export-filename="./Facade.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -37,7 +37,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1028"
-     inkscape:window-x="-8"
+     inkscape:window-x="1272"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
